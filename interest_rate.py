@@ -11,7 +11,7 @@ def CompInt(princ, rate, years):
     # define a varible to keep track of money so far
     sum_of_money = princ
     interest = 1 + rate/100
-```# print(sum_of_money)
+    # print(sum_of_money)
     # make a loop
     for i in range(years):
        sum_of_money = sum_of_money*interest
