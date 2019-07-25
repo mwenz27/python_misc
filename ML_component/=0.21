@@ -1,0 +1,30 @@
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/Wenz/anaconda3
+
+  added / updated specs:
+    - scikit-learn
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    conda-4.7.10               |           py37_0         3.0 MB
+    ------------------------------------------------------------
+                                           Total:         3.0 MB
+
+The following packages will be UPDATED:
+
+  conda                                        4.7.5-py37_0 --> 4.7.10-py37_0
+
+
+
+Downloading and Extracting Packages
+conda-4.7.10         | 3.0 MB    |            |   0% conda-4.7.10         | 3.0 MB    |            |   1% conda-4.7.10         | 3.0 MB    | 1          |   1% conda-4.7.10         | 3.0 MB    | 1          |   2% conda-4.7.10         | 3.0 MB    | 2          |   2% conda-4.7.10         | 3.0 MB    | 2          |   3% conda-4.7.10         | 3.0 MB    | 3          |   3% conda-4.7.10         | 3.0 MB    | 3          |   4% conda-4.7.10         | 3.0 MB    | 4          |   4% conda-4.7.10         | 3.0 MB    | 4          |   5% conda-4.7.10         | 3.0 MB    | 5          |   5% conda-4.7.10         | 3.0 MB    | 5          |   6% conda-4.7.10         | 3.0 MB    | 6          |   7% conda-4.7.10         | 3.0 MB    | 7          |   7% conda-4.7.10         | 3.0 MB    | 7          |   8% conda-4.7.10         | 3.0 MB    | #2         |  13% conda-4.7.10         | 3.0 MB    | ##5        |  26% conda-4.7.10         | 3.0 MB    | ##6        |  27% conda-4.7.10         | 3.0 MB    | ###        |  30% conda-4.7.10         | 3.0 MB    | ####5      |  46% conda-4.7.10         | 3.0 MB    | ####8      |  49% conda-4.7.10         | 3.0 MB    | #####1     |  51% conda-4.7.10         | 3.0 MB    | #####3     |  54% conda-4.7.10         | 3.0 MB    | #####8     |  58% conda-4.7.10         | 3.0 MB    | ######2    |  63% conda-4.7.10         | 3.0 MB    | ######5    |  66% conda-4.7.10         | 3.0 MB    | #######    |  71% conda-4.7.10         | 3.0 MB    | #######5   |  76% conda-4.7.10         | 3.0 MB    | ########3  |  84% conda-4.7.10         | 3.0 MB    | ########9  |  89% conda-4.7.10         | 3.0 MB    | #########3 |  94% conda-4.7.10         | 3.0 MB    | ########## | 100% 
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
