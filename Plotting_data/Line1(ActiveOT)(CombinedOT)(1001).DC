@@ -1,0 +1,50 @@
+>>Start    15
+DATA      9.359    317.857      0.996     0 
+DATA     10.077    343.425      0.931     0 
+DATA     11.753    288.636      0.992     0 
+DATA     12.855    287.419      1.000     0 
+DATA     14.148    299.594      1.000     0 
+DATA     14.819    308.117      0.981     0 
+DATA     15.968    372.646      0.863     0 
+DATA     17.022    340.990      1.000     0 
+DATA     17.980    360.471      0.974     0 
+DATA     19.417    345.860      1.000     0 
+DATA     21.141    371.429      1.000     0 
+DATA     22.099    353.166      1.000     0 
+DATA     23.296    365.341      0.983     0 
+DATA     23.967    378.734      0.853     0 
+DATA     25.308    360.471      0.941     0 
+>>End
+X-Coord:   1012.000
+   Distance Unit: meter
+   Record No.      = 1001
+   Spread Size     =        4.60E+01 (
+   Source Offset   =        4.00E+00 (
+Data Type = Dispersion
+ 
+Suggested optimum nearest spread offset parameter, which affects dispersion-curve
+ and lowest phase velocities are respectively at minimum and maximum frequencies.
+X1 =    -71.826 
+ 
+   Overtone Record Saved As: -30688
+C:\Users\Ninja\Documents\MASW\Dundass_Road_MASW\Dundass_Road_MASW\SG2\MASW1\Revision_2\OT(Line1(ActiveOT)(CombinedOT))\Line1(ActiveOT)(CombinedOT)(1001)(OT).dat
+ 
+PHASE-VELOCITY DATA (Frequency, Phase Velocity, Signal-to-Noise Ratio, Surface-wave Mode)
+>>Start    15
+DATA      9.359    317.857      0.996  0
+DATA     10.077    343.425      0.931  0
+DATA     11.753    288.636      0.992  0
+DATA     12.855    287.419      1.000  0
+DATA     14.148    299.594      1.000  0
+DATA     14.819    308.117      0.981  0
+DATA     15.968    372.646      0.863  0
+DATA     17.022    340.990      1.000  0
+DATA     17.980    360.471      0.974  0
+DATA     19.417    345.860      1.000  0
+DATA     21.141    371.429      1.000  0
+DATA     22.099    353.166      1.000  0
+DATA     23.296    365.341      0.983  0
+DATA     23.967    378.734      0.853  0
+DATA     25.308    360.471      0.941  0
+>>End
+SurfSeis v. 6.0 (Serial # = 1071)
