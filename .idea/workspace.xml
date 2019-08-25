@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="864309d6-addf-4c56-b7a2-a2bb2d817247" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plotting_data/Production_scripts_conversion_and_qc_MASW.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plotting_data/Production_scripts_conversion_and_qc_MASW.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plotting_data/.ipynb_checkpoints/Production_scripts_conversion_and_qc_MASW-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plotting_data/.ipynb_checkpoints/Production_scripts_conversion_and_qc_MASW-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plotting_data/Cross_hole_file_conversion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plotting_data/Cross_hole_file_conversion.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="7" />
     <option name="y" value="7" />
     <option name="width" value="1600" />
@@ -157,8 +158,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="7" width="1600" height="860" extended-state="1" />
-    <editor active="true" />
+    <frame x="7" y="7" width="1600" height="860" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
