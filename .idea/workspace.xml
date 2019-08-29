@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="864309d6-addf-4c56-b7a2-a2bb2d817247" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plotting_data/.ipynb_checkpoints/3d plotting-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plotting_data/.ipynb_checkpoints/3d plotting-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plotting_data/.ipynb_checkpoints/Cross_hole_file_conversion-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plotting_data/.ipynb_checkpoints/Cross_hole_file_conversion-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plotting_data/3d plotting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plotting_data/3d plotting.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plotting_data/Cross_hole_file_conversion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plotting_data/Cross_hole_file_conversion.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plotting_data/crosshole_tunnel_conversion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plotting_data/crosshole_tunnel_conversion.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +42,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Plotting_data/source_reciever_dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1621">
+            <state relative-caret-position="258">
               <caret line="73" column="63" lean-forward="true" selection-start-line="73" selection-start-column="63" selection-end-line="73" selection-end-column="63" />
             </state>
           </provider>
@@ -75,11 +71,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-103" />
-    <option name="y" value="-19" />
-    <option name="width" value="1600" />
-    <option name="height" value="860" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -184,10 +180,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24729127" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20539968" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -231,7 +227,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Plotting_data/source_reciever_dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1621">
+        <state relative-caret-position="258">
           <caret line="73" column="63" lean-forward="true" selection-start-line="73" selection-start-column="63" selection-end-line="73" selection-end-column="63" />
         </state>
       </provider>
